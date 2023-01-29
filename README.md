@@ -7,7 +7,7 @@ This project consisted in implementing 3 different versions of a K-means algorit
 
 ## Group members  
 
-[Rui Guilherme Monteiro](https://www.github.com/DBarbosa15987)  
-[Daniel Azevedo](https://www.github.com/danieltazevedo)
+[Daniel Barbosa](https://www.github.com/DBarbosa15987)  
+[Rui Guilherme Monteiro](https://www.github.com/rushmetra)
 
 # Final grade: 15,4/20
